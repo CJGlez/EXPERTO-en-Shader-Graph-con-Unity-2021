@@ -9,6 +9,13 @@
 ../[Bb]uilds/
 ../[Ll]ogs/
 ../[Uu]ser[Ss]ettings/
+EXPERTO Shaders/[Ll]ibrary/
+EXPERTO Shaders/[Tt]emp/
+EXPERTO Shaders/[Oo]bj/
+EXPERTO Shaders/[Bb]uild/
+EXPERTO Shaders/[Bb]uilds/
+EXPERTO Shaders/[Ll]ogs/
+EXPERTO Shaders/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
